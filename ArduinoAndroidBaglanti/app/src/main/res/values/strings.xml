@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoAndroidBaglanti</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="none_paired">Hiçbir cihaz eşleştirilmedi</string>
+</resources>
